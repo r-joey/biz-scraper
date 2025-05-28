@@ -38,7 +38,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Run the Script
+## Run the Script
 
 Once the environment is set up and dependencies are installed, run:
 
