@@ -1,8 +1,8 @@
-# 🐍 Basic Python Script
+#  Basic Python Script
 
 This repository contains a simple Python script that runs with minimal setup using a virtual environment.
 
-## 📦 Setup Instructions
+## Setup Instructions
 
 Follow these steps to set up and run the project:
 
